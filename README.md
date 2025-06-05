@@ -66,7 +66,7 @@ pip install -r requirements.txt
 4. **Run the Script** 🚀
 
    ```bash
-   python scrape_tenders.py
+   python main.py
    ```
 
 5. **Check Output** 📊
